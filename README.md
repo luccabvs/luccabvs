@@ -1,6 +1,6 @@
-### Hi there 👋
+### 👋 Hi, I'm Lucca 
 
-- 🔭 I’m currently studing Computer Engineering at Insper 
+- 💻 Currently studing Computer Engineering at Insper 
 
 <div align="center">
   <a href="https://github.com/luccabvs">
